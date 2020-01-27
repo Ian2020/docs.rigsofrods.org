@@ -106,6 +106,7 @@ my-script.as=
 * **.os**: Caelum system (sky/weather) config. Visuals only. [Example file here.](https://github.com/RigsOfRods/rigs-of-rods/blob/master/resources/caelum/RoRSkies.os)
 * **.hdx**: Hydrax config (0.4.5 and up). Water display. [Example file here.](https://github.com/RigsOfRods/rigs-of-rods/blob/master/resources/hydrax/HydraxDefault.hdx)
 * **.as**: Terrain script file, usually used for races. See [this page](http://docs.rigsofrods.org/terrain-creation/scripting/) for more info.
+* **-mini.png**: Preview image that will appear in the Terrain Loader window. Optional.
 
 Note that, there is no editor which would create these files for you. You need to copy a template and work manually from there.
 
